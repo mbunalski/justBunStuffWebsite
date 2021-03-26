@@ -88,3 +88,15 @@ header a:hover{
 footer{
   color:#FFFFFF;
 }
+
+@media(max-width:600px){/*if width goes under 600, this will occurr*/
+	#main{
+		width:100%;
+		float:none;
+	}
+	#sidebar{
+		width:100%;
+		float:none;
+	}
+
+}
