@@ -98,6 +98,11 @@ header a:hover{
   font-weight:bold;
 }
 
+.card{
+  width: 50%;
+  background:#dedede;
+}
+
 #about{
   color:#FFFFFF;
   
